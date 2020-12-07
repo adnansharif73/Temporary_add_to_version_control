@@ -1,0 +1,16 @@
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+]0;~/Desktop/Temporary_add_to_version_control[?1034hAdnans-MacBook-Pro-2:Temporary_add_to_version_control adnansharif$ [KAdnans-MacBook-Pro-2:Temporary_add_to_version_control adnnansharif$ pwd cd ~/MacintoshHD/Users/adnansharif/Deskto p/[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[KDesktop/
+/Users/adnansharif/Desktop/Temporary_add_to_version_control
+]0;~/Desktop/Temporary_add_to_version_controlAdnans-MacBook-Pro-2:Temporary_add_to_version_control adnnansharif$ cd cd ~/MacintoshHD/Users/adnansharif/Desktop /[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K/Desktop/Temporary_add_to_version_cont rol/
+bash: cd: cd: No such file or directory
+]0;~/Desktop/Temporary_add_to_version_controlAdnans-MacBook-Pro-2:Temporary_add_to_version_control adnnansharif$ pwd cs[Kd ~/Desktop/
+/Users/adnansharif/Desktop/Temporary_add_to_version_control
+]0;~/Desktop/Temporary_add_to_version_controlAdnans-MacBook-Pro-2:Temporary_add_to_version_control adnnansharif$ cs[K[Kcd ~/Desktop/Temporary_add_to_version_control /
+]0;~/Desktop/Temporary_add_to_version_controlAdnans-MacBook-Pro-2:Temporary_add_to_version_control adnnansharif$ git init
+Initialized empty Git repository in /Users/adnansharif/Desktop/Temporary_add_to_version_control/.git/
+]0;~/Desktop/Temporary_add_to_version_controlAdnans-MacBook-Pro-2:Temporary_add_to_version_control adnnansharif$ git add .
